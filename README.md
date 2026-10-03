@@ -37,3 +37,7 @@ This is my first Business Analytics portfolio project. The project analyzes sale
 ## Conclusion
 
 This project demonstrates my basic skills in data analysis, Excel, SQL, data visualization, and business insights.
+
+## Dashboard Preview
+
+![Sales Dashboard](dashboard.png)
